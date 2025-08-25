@@ -1,0 +1,13 @@
+.pio/
+.vscode/
+.idea/
+.DS_Store
+*.bak
+*.tmp
+*.swp
+*.log
+*.elf
+*.eep
+*.hex
+*.bin
+Thumbs.db
