@@ -34,7 +34,7 @@ This project is an **Arduino-based obstacle avoiding robot** using:
 | L298N ENB | D11 (PWM) |
 
 ## Project Structure
-
+'''
 obstacle-avoiding-robot-servo/
 ├─ README.md
 ├─ .gitignore
@@ -42,7 +42,7 @@ obstacle-avoiding-robot-servo/
 │ └─ obstacle_avoider_servo.ino
 └─ docs/
 └─ wiring.md    
-
+'''
 ## Usage
 1. Open `src/obstacle_avoider_servo.ino` in Arduino IDE
 2. Select your board & port
