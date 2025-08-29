@@ -38,9 +38,9 @@ This project is an **Arduino-based obstacle avoiding robot** using:
 obstacle-avoiding-robot-servo/
 ├─ README.md                 
 ├─ .gitignore            
-├─ src/
+├─ src
 │  └─ obstacle_avoider_servo.ino   
-├─ docs/
+├─  docs
 │  ├─ wiring.md            
 
 ## Usage
