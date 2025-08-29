@@ -36,12 +36,12 @@ This project is an **Arduino-based obstacle avoiding robot** using:
 ## Project Structure
 
 obstacle-avoiding-robot-servo/
-├─ README.md                 
-├─ .gitignore            
-├─ src
-│  └─ obstacle_avoider_servo.ino   
-├─  docs
-│  ├─ wiring.md            
+├─ README.md
+├─ .gitignore
+├─ src/
+│ └─ obstacle_avoider_servo.ino
+└─ docs/
+└─ wiring.md    
 
 ## Usage
 1. Open `src/obstacle_avoider_servo.ino` in Arduino IDE
